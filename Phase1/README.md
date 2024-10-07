@@ -3,7 +3,7 @@
 
 ## Project Directions
 
-These are the project directions for phase 1, as given by the professor:
+These are the project directions for phase 1, as given by the professor.
 
 ### Phase 1: Idea Proposal - Prototype
 
