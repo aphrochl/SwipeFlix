@@ -1,52 +1,75 @@
-## Project Directions
+# Project Directions
 
 These are the project directions for phase 1, as given by the professor.
 
-### Phase 1: Idea Proposal - Prototype
+## Phase 2: Final Figma Prototype
 
-In the first phase, you should present your idea with **low-fidelity prototyping** and **rapid implementation methods**.
+In the second phase of the six-month project, you will deliver a **complete functional prototype** of your application in Figma. 
 
-### Scope and Interaction Capabilities:
-Your application should not be complex and should not do many different things. Instead, it should perform a **specific functionality** and do it well or better than existing applications.
+You can change the app concept entirely from Phase 1, especially if feedback from the first phase suggests a change.
 
-You can achieve this:
-- At the **hardware level** by leveraging mobile device capabilities
-- At the **software level** through advanced interaction techniques
+### Focus:
+- Limit the **size** and **resource requirements** of the application.
+- Focus on the **interaction elements**.
 
-### App Categories Not Recommended:
-The following categories either have too general a scope or are **saturated** with existing applications, leaving limited room for innovation:
-- Fitness and medical
-- Diet
-- Shopping
-- Booking (restaurants, concerts, trips, courses)
-- Wallet/budget management
+---
 
-### Deliverable
+### Figma Prototype Requirements
 
-#### Text Deliverables:
-For **Phase 1**, you should include:
+This is a **team project** and should be built based on a **team library**.
 
-1. **Application Title**: Include a short title if available.
-   
-2. **Promo Text / Punchline**: A short, one-line promotional statement.
+#### Design System:
+- We recommend using **Material Design 3**, which has a design kit you can duplicate.
+- Publish the necessary components and styles to your team library.
+- You may also import components from other `.fig` files or use a different design system, as long as it fits the application needs.
 
-3. **Description**: Up to 400 characters. This should be a one-paragraph application description that addresses the end user. (Examples of such descriptions can be found on Google Play.)
+#### Data:
+- Use **dummy data** for images and text if necessary.
 
-4. **Functional Requirements**: 
-   - Identify functionalities for all user groups.
-   - At least **one functionality** should relate to **Axis 1**.
-   - Two functionalities should relate to **Axes 2** (except input) and **3** of the HCI application concept selection.
-   
-   **Note:** Please refer to these functionalities separately.
+---
 
-#### Wireframes:
-Design your application's screen outlines (wireframes). You can create them:
-- **By hand** (paper prototyping)
-- **In Figma** (using a wireframing kit)
-- **Using any other design program** you prefer.
+### Required Pages
 
-For **Figma**: 
-- Only frames/wireframes are needed in this first phase.
-- Do **NOT** fully prototype the application in Figma, as this will be required in Phase 2.
+The project must contain the following **4 pages**:
 
-You may accompany the wireframes with **explanations** of your application's functionality.
+1. **Assets**
+2. **Wireframes**
+3. **Final UI**
+4. **Prototype**
+
+---
+
+### Assets Page
+- Present the assets and components of the application according to the **atomic design philosophy**, from **atoms** to **organisms**.
+- Follow Figma’s organizational system for **components** and **styles**.
+- Components should be designed with **variants**, **instances**, and **states** where applicable.
+
+---
+
+### Wireframes Page
+- Present all wireframes of the application using **atomic design templates**.
+- This page should contain only **page borders** with minimal text to explain what each element does—no graphical enrichment.
+
+---
+
+### Final UI Page
+- Present the **complete UI** (atomic design pages), which are the finalized versions of the wireframes.
+- Use assets and components from the corresponding assets page.
+
+---
+
+### Prototype Page
+- Implement a **functional prototype** of the application using interactions and flows.
+- The prototype should be based on the **Final UI** page, with the addition of interactions and flows.
+- Include at least **one gesture** other than tap (if not done already).
+- Ensure the prototype works **cyclically**, meaning each flow should allow navigation back to the home page.
+
+---
+
+### Phase 2 Delivery Instructions
+
+- Share the project and set the permissions to "**Anyone with the link can edit**".
+- Copy the share link.
+- Open an **incognito/private tab** and make sure the link works, and that the prototype functions when pressing the **Play** button in the top-right corner.
+  
+**Note**: The deliverable does not include file uploads. Instead, submit an **online rich text document** containing the **share link** for the project/prototype and any comments you may have.
