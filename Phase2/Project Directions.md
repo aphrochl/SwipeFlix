@@ -1,6 +1,6 @@
 # Project Directions
 
-These are the project directions for phase 1, as given by the professor.
+These are the project directions for phase 2, as given by the professor.
 
 ## Phase 2: Final Figma Prototype
 
