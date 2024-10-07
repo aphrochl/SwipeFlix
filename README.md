@@ -1,6 +1,6 @@
 # SwipeFlix
 
-![Logo](front-end/public/big_logo.png)
+![pages_HCI](https://github.com/user-attachments/assets/dba003f3-8915-466f-9e87-7cd650929a89)
 
 ## Team's Members
 
