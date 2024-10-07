@@ -16,10 +16,7 @@ SwipeFlix is an interactive mobile application designed for users to browse, sel
 
 Key features:
 - **Swipe-based interaction**: Users can swipe right to add a movie or series to their favorites or swipe left to discard it.
-- **Personalized recommendations**: The system uses the user's swiping history to suggest relevant content.
-- **Data integration**: Pulls movie/TV series data from IMDb for up-to-date content.
 - **User collections**: Users can view, edit, and manage their watchlists.
-- **Backend API**: Supports data fetching, user watchlist management, and recommendations.
 
 ---
 
