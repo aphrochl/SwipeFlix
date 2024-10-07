@@ -3,6 +3,8 @@
 
 ## Project Directions
 
+These are the project directions for phase 1, as given by the professor:
+
 ### Phase 1: Idea Proposal - Prototype
 
 In the first phase, you should present your idea with **low-fidelity prototyping** and **rapid implementation methods**.
