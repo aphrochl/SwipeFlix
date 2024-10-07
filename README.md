@@ -4,9 +4,9 @@
 
 ## Team's Members
 
-**[Afroditi Marianthi Chlapani](mailto:email1@domain.com)**  
-**[Member 2 Name](mailto:email2@domain.com)**  
-**[Member 3 Name](mailto:email3@domain.com)**  
+**Afroditi Marianthi Chlapani [el20889@mail.ntua.gr](https://github.com/ntua-el20889)**  
+ **Takis Stamatopoulos [el20096@mail.ntua.gr](https://github.com/ntua-el20096)**   
+**Avgi Rousogiannaki [el20@mail.ntua.gr](https://github.com/ntua-el20889)**  
 
 ---
 
