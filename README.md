@@ -18,7 +18,6 @@ The application’s design focuses on usability and visual clarity, offering a h
 Key features:
 - **Swipe-based interaction**: Users can effortlessly swipe right to like and add a movie or series to their watchlist, or swipe left to dislike and dismiss it.
 - **Curated user collections**: Users can manage personalized watchlists, easily accessing and organizing their favorite movies and series.
-- **Integrated IMDb**: For each movie and series, direct links to the IMDb page are provided for further exploration without leaving the app.
 - **Like/Dislike functionality**: Movies and series can be liked (saved) or disliked (dismissed) with a simple swipe gesture, streamlining the decision-making process.
 - **Watchlist management**: Users can view and edit their saved watchlists at any time, allowing for quick access to their curated collections.
 - **Light/Dark mode**: The app includes a toggle for light and dark modes, offering a visually comfortable experience based on user preference or environment.
