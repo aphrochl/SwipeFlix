@@ -4,4 +4,4 @@ Here, you can find our Report for the 1st phase of the project, our very first p
 
 Our prototype in figma:
 
-[The Prototype](https://www.figma.com/file/GzHiegnNaE0Vrh1ktmcqwg/Prototype-of-our-Super-Duper-Awesome-App?type=design&t=eZNPtfMlJK3yp3k8-6)
+[The first prototype](https://www.figma.com/file/GzHiegnNaE0Vrh1ktmcqwg/Prototype-of-our-Super-Duper-Awesome-App?type=design&t=eZNPtfMlJK3yp3k8-6)
