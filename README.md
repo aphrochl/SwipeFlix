@@ -25,7 +25,7 @@ Key features:
 
 ## Our project consists of
 
-### [1st Phase](https://github.com/team/SwipeFlix/tree/main/Phase1)
-### [2nd Phase](https://github.com/team/SwipeFlix/tree/main/Phase2)
-### [3rd Phase](https://github.com/team/SwipeFlix/tree/main/Phase3)
+### [1st Phase](https://github.com/ntua-el20889/SwipeFlix/tree/main/Phase1)
+### [2nd Phase](https://github.com/ntua-el20889/SwipeFlix/tree/main/Phase2)
+### [3rd Phase](https://github.com/ntua-el20889/SwipeFlix/tree/main/Phase3)
 
