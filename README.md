@@ -11,14 +11,14 @@
 ---
 ## Project Overview
 
-SwipeFlix is an interactive mobile application that enables users to explore, select, and organize movie and TV series recommendations through an intuitive swiping interface. Rather than directly integrating data from IMDb, the app provides seamless access to IMDb pages and trailers for each title, enhancing the user’s ability to gather detailed information without overwhelming the application’s core functionality. 
+SwipeFlix is an interactive mobile application that enables users to explore, select, and organize movie and TV series recommendations through an intuitive swiping interface. Rather than directly integrating data from IMDb, the app provides seamless access to IMDb pages for each title, enhancing the user’s ability to gather detailed information without overwhelming the application’s core functionality. 
 
 The application’s design focuses on usability and visual clarity, offering a highly responsive and accessible interface. The application includes both light and dark modes, ensuring optimal use in varying environments.
 
 Key features:
 - **Swipe-based interaction**: Users can effortlessly swipe right to like and add a movie or series to their watchlist, or swipe left to dislike and dismiss it.
 - **Curated user collections**: Users can manage personalized watchlists, easily accessing and organizing their favorite movies and series.
-- **Integrated IMDb and trailer access**: For each movie and series, direct links to the IMDb page and trailers are provided for further exploration without leaving the app.
+- **Integrated IMDb**: For each movie and series, direct links to the IMDb page are provided for further exploration without leaving the app.
 - **Like/Dislike functionality**: Movies and series can be liked (saved) or disliked (dismissed) with a simple swipe gesture, streamlining the decision-making process.
 - **Watchlist management**: Users can view and edit their saved watchlists at any time, allowing for quick access to their curated collections.
 - **Light/Dark mode**: The app includes a toggle for light and dark modes, offering a visually comfortable experience based on user preference or environment.
