@@ -6,7 +6,7 @@
 
 **Afroditi Marianthi Chlapani [github](https://github.com/aphrochl)**  
  **Takis Stamatopoulos [github](https://github.com/ntua-el20096)**   
-**Avgi Rousogiannaki [github](https://github.com/AvgiRouc)**  
+**Avgi Rousogiannaki [LinkedIn](https://www.linkedin.com/in/avgi-rousogiannaki-84526a249/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)**  
 
 ---
 ## Project Overview
